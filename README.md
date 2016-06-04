@@ -1,7 +1,7 @@
 # Introduction
 This library contains navigation commands for use in Android applications.
 
-Visit [Robo Creative Official Page](http://robo-creative.github.io/) to all more interesting stuffs we contributed to Android community.
+Visit [Robo Creative Official Page](http://robo-creative.github.io/) to find all interesting stuffs we contributed to Android community.
 # License
 ```
 Copyright 2016 Robo Creative - http://robo-creative.github.io
